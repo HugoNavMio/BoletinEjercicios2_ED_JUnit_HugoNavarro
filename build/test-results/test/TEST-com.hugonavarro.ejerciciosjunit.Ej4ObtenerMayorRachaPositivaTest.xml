@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hugonavarro.ejerciciosjunit.Ej4ObtenerMayorRachaPositivaTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-04-24T18:01:23.242Z" hostname="HugoNavMio" time="0.032">
+  <properties/>
+  <testcase name="arraySinCerosYSinNegativos()" classname="com.hugonavarro.ejerciciosjunit.Ej4ObtenerMayorRachaPositivaTest" time="0.016"/>
+  <testcase name="arrayNulo()" classname="com.hugonavarro.ejerciciosjunit.Ej4ObtenerMayorRachaPositivaTest" time="0.006"/>
+  <testcase name="arrayVacio()" classname="com.hugonavarro.ejerciciosjunit.Ej4ObtenerMayorRachaPositivaTest" time="0.001"/>
+  <testcase name="arrayConTodoNegativos()" classname="com.hugonavarro.ejerciciosjunit.Ej4ObtenerMayorRachaPositivaTest" time="0.0"/>
+  <testcase name="arrayConTodoCeros()" classname="com.hugonavarro.ejerciciosjunit.Ej4ObtenerMayorRachaPositivaTest" time="0.001"/>
+  <testcase name="arrayConCerosYNegativos()" classname="com.hugonavarro.ejerciciosjunit.Ej4ObtenerMayorRachaPositivaTest" time="0.001"/>
+  <testcase name="arrayConAlgunCero()" classname="com.hugonavarro.ejerciciosjunit.Ej4ObtenerMayorRachaPositivaTest" time="0.001"/>
+  <testcase name="arrayConAlgunNegativo()" classname="com.hugonavarro.ejerciciosjunit.Ej4ObtenerMayorRachaPositivaTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
