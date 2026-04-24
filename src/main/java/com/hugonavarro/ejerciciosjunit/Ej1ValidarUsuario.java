@@ -1,4 +1,4 @@
 package com.hugonavarro.ejerciciosjunit;
 
-public class Main {
+public class Ej1ValidarUsuario {
 }
