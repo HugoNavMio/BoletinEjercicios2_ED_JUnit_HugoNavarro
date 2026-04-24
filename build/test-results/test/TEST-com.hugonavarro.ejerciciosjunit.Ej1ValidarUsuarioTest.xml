@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hugonavarro.ejerciciosjunit.Ej1ValidarUsuarioTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-04-24T14:28:03.359Z" hostname="HugoNavMio" time="0.037">
+  <properties/>
+  <testcase name="nombreNulo()" classname="com.hugonavarro.ejerciciosjunit.Ej1ValidarUsuarioTest" time="0.019"/>
+  <testcase name="nombreCorto()" classname="com.hugonavarro.ejerciciosjunit.Ej1ValidarUsuarioTest" time="0.005"/>
+  <testcase name="nombreLargo()" classname="com.hugonavarro.ejerciciosjunit.Ej1ValidarUsuarioTest" time="0.001"/>
+  <testcase name="nombreVacio()" classname="com.hugonavarro.ejerciciosjunit.Ej1ValidarUsuarioTest" time="0.001"/>
+  <testcase name="nombreConGuionBajo()" classname="com.hugonavarro.ejerciciosjunit.Ej1ValidarUsuarioTest" time="0.001"/>
+  <testcase name="nombreConSimbolos()" classname="com.hugonavarro.ejerciciosjunit.Ej1ValidarUsuarioTest" time="0.001"/>
+  <testcase name="nombreConNumeros()" classname="com.hugonavarro.ejerciciosjunit.Ej1ValidarUsuarioTest" time="0.001"/>
+  <testcase name="nombreNormal()" classname="com.hugonavarro.ejerciciosjunit.Ej1ValidarUsuarioTest" time="0.0"/>
+  <testcase name="nombreConSimbolosYGuionBajo()" classname="com.hugonavarro.ejerciciosjunit.Ej1ValidarUsuarioTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
